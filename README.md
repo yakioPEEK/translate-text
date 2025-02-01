@@ -14,7 +14,7 @@ This is a simple translation application built using Python and the Tkinter libr
 
 ## Download:
 
-- **For Windows**: [Download the latest version of the .exe](https://github.com/yakioPEEK/translate-text/releases/download/v1.0/main.exe)
+- **For Windows**: [Download the latest version of the .exe](https://github.com/yakioPEEK/translate-text/releases/download/v1.0/default.Windows)
 - **For Linux**: [Download the latest .deb package](https://github.com/yakioPEEK/translate-text/releases/download/v1.0/your-package-name.deb)
 
 
